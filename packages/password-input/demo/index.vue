@@ -30,7 +30,7 @@ export default {
   i18n: {
     'zh-CN': {
       info: '密码为 6 位数字',
-      removeMask: '明文展示'
+      removeMask: '明文展示1'
     },
     'en-US': {
       info: 'Some tips',
